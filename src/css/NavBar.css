@@ -1,0 +1,20 @@
+.NavBar{
+    width:100%;
+    padding:0 35px !important;
+}
+
+.logo{
+    min-width:120px;
+    user-select:none;
+}
+
+.NavBar .ui.basic.buttons,
+.NavBar .ui.basic.blue.buttons .button,
+.NavBar .ui.basic.blue.buttons .button:hover,
+.NavBar .ui.basic.blue.buttons .button:focus{
+    box-shadow: none !important;
+    border: none !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
